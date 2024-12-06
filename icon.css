@@ -1,0 +1,10 @@
+@font-face {
+  font-display: swap;
+  font-family: 'icon';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    url('/fonts/icon.ttf?v=1.8') format('truetype'),
+    url('/fonts/icon.woff?v=1.8') format('woff'),
+    url('/fonts/icon.svg?v=1.8') format('svg');
+}
